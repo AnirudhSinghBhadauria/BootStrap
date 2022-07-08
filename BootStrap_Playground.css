@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Josefin+Sans:ital,wght@1,300&family=League+Spartan&family=Montserrat&family=Press+Start+2P&display=swap");
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Press Start 2P', cursive; */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+}
+.text-secondary{
+    font-size: 20px;
+    
+}
+.blockquote-footer{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    font-weight: 400;
+    /* color: blanchedalmond; */
+}
+.google{
+    font-size: 30px;
+}
+.pakistani{
+    font-size: 25px;
+}
+.alert-heading{
+    font-size: 30px;
+    font-weight: 700;
+}
+.nice{
+    font-size: 20px;
+}
+.apple{
+    font-size: 40px;
+}
+.teddy{
+    padding-bottom: 60px;
+}
+.message{
+    font-size: 20px;
+    font-weight: 550;
+}
+::selection{
+    background-color: rgb(162, 189, 240);
+}
